@@ -1,0 +1,2 @@
+2017-08-04 17:19:25 [scrapy.downloadermiddlewares.robotstxt] ERROR: Error downloading <GET http://pic.auto.sohu.com/robots.txt>: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+ResponseNeverReceived: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
